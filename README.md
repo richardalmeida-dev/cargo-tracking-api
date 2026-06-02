@@ -2,8 +2,8 @@
 
 REST API for cargo tracking driven by a finite-state machine: each event validates the transition before mutating the shipment status, and the full timeline is persisted.
 
-[![CI](https://github.com/<owner>/<repo>/actions/workflows/ci.yml/badge.svg)](https://github.com/<owner>/<repo>/actions/workflows/ci.yml)
-[![CodeQL](https://github.com/<owner>/<repo>/actions/workflows/codeql.yml/badge.svg)](https://github.com/<owner>/<repo>/actions/workflows/codeql.yml)
+[![CI](https://github.com/richardalmeida-dev/cargo-tracking-api/actions/workflows/ci.yml/badge.svg)](https://github.com/richardalmeida-dev/cargo-tracking-api/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/richardalmeida-dev/cargo-tracking-api/actions/workflows/codeql.yml/badge.svg)](https://github.com/richardalmeida-dev/cargo-tracking-api/actions/workflows/codeql.yml)
 
 ## Overview
 
