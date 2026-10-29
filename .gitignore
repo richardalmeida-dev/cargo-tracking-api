@@ -32,3 +32,26 @@ build/
 
 ### VS Code ###
 .vscode/
+node_modules/
+.venv/
+venv/
+__pycache__/
+dist/
+.next/
+.turbo/
+.dart_tool/
+.gradle/
+.expo/
+bin/
+obj/
+coverage/
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+.wwebjs_auth/
+.wwebjs_cache/
+**/flutter/ephemeral/
+release/
+*.pdb
